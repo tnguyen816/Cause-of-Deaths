@@ -12,7 +12,9 @@ It lets viewers pick a year and see the most common cause of death in every coun
 
 ## Dataset: 
 Source: Kaggle:[Cause of Deaths Around the World (Kaggle)](https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around-the-world)
+
 Coverage: countries and territories, 1990 to 2019
+
 Structure: one row per country and year, with one column of death counts for each cause (e.g. Cardiovascular Diseases, Neoplasms, Malaria, Drowning)
 
 ## Tools
